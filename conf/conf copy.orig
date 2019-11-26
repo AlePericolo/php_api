@@ -1,0 +1,8 @@
+<?php
+
+
+define("HOST", "your host..");
+define("PORT", "your port..");
+define("DATABASE", "your db..");
+define("USERNAME", "your user..");
+define("PASSWORD", 'your pwd..');
