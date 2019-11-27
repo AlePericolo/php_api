@@ -50,7 +50,6 @@ class Connection
             echo "Error: " . $exception->getMessage();
         }
 
-        error_log(json_encode($this->conn));
         return $this->conn;
     }
 }
